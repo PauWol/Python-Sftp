@@ -1,8 +1,8 @@
-SFTP Explorer
+#SFTP Explorer
 
 SFTP Explorer is a simple Python console application that allows you to connect to an SFTP server and perform various file operations such as downloading, uploading, and navigating directories.
 
-Features
+##Features
 
 - Connect to an SFTP server by providing the host, username, and password.
 - View files in the current directory on the server.
@@ -10,7 +10,7 @@ Features
 - Upload files from the local machine to the server.
 - Change directories on the server to navigate to different locations.
 
-Installation
+##Installation
 
 1. Clone the repository:
 
